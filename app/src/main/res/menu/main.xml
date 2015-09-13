@@ -1,0 +1,29 @@
+<menu xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    tools:context="ivl.example.graphicseditor.MainActivity" >
+
+    <item
+        android:id="@+id/reset"
+        android:orderInCategory="100"
+        android:showAsAction="never"
+        android:icon="@android:drawable/ic_menu_delete"
+        android:title="@string/reset"/>
+    
+    <item
+        android:id="@+id/about"
+        android:orderInCategory="100"
+        android:showAsAction="never"
+        android:icon="@drawable/ic_menu_about"
+        android:title="@string/about"/>
+
+    <item
+        android:id="@+id/close"
+        android:orderInCategory="100"
+        android:showAsAction="never"
+        android:icon="@android:drawable/ic_menu_close_clear_cancel"
+        android:title="@string/close"/>
+    
+    
+    
+</menu>

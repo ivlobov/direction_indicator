@@ -1,0 +1,12 @@
+<resources>
+
+    <string name="app_name">Указатель направления</string>
+    <string name="close">Закрыть</string>
+    <string name="about">О программе</string>
+    <string name="reset">Сбросить направление</string>
+    <string name="about_text">©Игорь Лобов, 2014</string>   
+    <string name="yes">Да</string> 
+    <string name="no">Нет</string>
+    <string name="close_dialog_title">Вы желаете закрыть приложение?</string> 
+    
+</resources>

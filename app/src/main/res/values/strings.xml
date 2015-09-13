@@ -1,0 +1,12 @@
+<resources>
+
+    <string name="app_name">Orientation</string>
+    <string name="close">Close</string>
+    <string name="about">About</string>
+    <string name="reset">Reset direction</string>
+    <string name="about_text">©Igor Lobov, 2014</string>   
+	<string name="yes">Yes</string> 
+    <string name="no">No</string>
+	<string name="close_dialog_title">Do you want to close the application?</string> 
+    
+</resources>
